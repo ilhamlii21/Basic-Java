@@ -21,7 +21,7 @@ public class Counter {
 	}
 	
 	public int getCount() {
-		return countc
+		return count;
 	}
 	
 }
